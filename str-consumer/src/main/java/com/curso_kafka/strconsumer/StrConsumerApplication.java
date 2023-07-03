@@ -11,5 +11,4 @@ public class StrConsumerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StrConsumerApplication.class, args);
 	}
-
 }
